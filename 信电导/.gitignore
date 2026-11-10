@@ -1,0 +1,3 @@
+# Keep editable report sources and simulator backups local.
+*.docx
+* (Security copy)
